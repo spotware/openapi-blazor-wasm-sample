@@ -191,8 +191,8 @@
       "System.Reactive.dll": "sha256-K2wx37H8YBmkKgB+0OXgBXTebqDEf+0MooK\/O7J3Gww=",
       "Websocket.Client.dll": "sha256-0DPXFy0EGLVpqw2yJh8UirQiRGy8ZiLOdHZrkNh\/SGo=",
       "OpenAPI.Net.dll": "sha256-nUSAc70TZ1qouvpOqaUUAmDp9TuMnFEy8m1byFwMXS0=",
-      "Samples.Shared.dll": "sha256-Svw2zxHP+nMrmgBPAkE1mOvt3rIZlaPKL\/F+iVSWT0M=",
-      "Blazor.WebSocket.Sample.dll": "sha256-ex2FVCbBIDgF9JeBHAvzJzSCbTFTuSSKJUVkJ4ZfdM8="
+      "Samples.Shared.dll": "sha256-ddCere4kib\/Oy3kKjCptnVvKw3fJX6K+U7q0xCyzVtU=",
+      "Blazor.WebSocket.Sample.dll": "sha256-TXUUGkDlcpit5NMwJm4xhvgm8fy8A4o7bZ9ipTApLIA="
     },
     "lazyAssembly": null,
     "pdb": null,

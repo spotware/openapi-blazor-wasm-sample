@@ -192,7 +192,7 @@
       "Websocket.Client.dll": "sha256-0DPXFy0EGLVpqw2yJh8UirQiRGy8ZiLOdHZrkNh\/SGo=",
       "OpenAPI.Net.dll": "sha256-nUSAc70TZ1qouvpOqaUUAmDp9TuMnFEy8m1byFwMXS0=",
       "Samples.Shared.dll": "sha256-ddCere4kib\/Oy3kKjCptnVvKw3fJX6K+U7q0xCyzVtU=",
-      "Blazor.WebSocket.Sample.dll": "sha256-TXUUGkDlcpit5NMwJm4xhvgm8fy8A4o7bZ9ipTApLIA="
+      "Blazor.WebSocket.Sample.dll": "sha256-ve+c4Bkc3h73majHRxLP8pEyTezBelNndOGj3K9PSsY="
     },
     "lazyAssembly": null,
     "pdb": null,
